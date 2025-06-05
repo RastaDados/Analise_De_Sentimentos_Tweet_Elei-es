@@ -1,4 +1,4 @@
-## SentimentMap – Visualização Interativa da Opinião Pública em Tweets Políticos
+## SentimentMap – Visualização da Opinião Pública em Tweets Políticos
 
 <hr>
 
